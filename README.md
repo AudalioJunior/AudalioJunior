@@ -36,5 +36,3 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-  
-![Snake animation](https://github.com/AudalioJunior/AudalioJunior/blob/output/github-contribution-grid-snake.svg)
